@@ -4,7 +4,7 @@
 
 ## Descripción
 
-**Navegador Transparente** es una aplicación de navegador web personalizada desarrollada con PyQt5. Este navegador ofrece una interfaz transparente, permitiendo una experiencia visual única y minimalista. Ideal para usuarios que buscan una herramienta ligera y personalizable para navegar por la web.
+**Navegador Transparente** es una aplicación de navegador web personalizada. Este navegador ofrece una interfaz transparente, permitiendo una experiencia visual única y minimalista. Ideal para usuarios que buscan una herramienta ligera y personalizable para navegar por la web.
 
 ## Características
 
